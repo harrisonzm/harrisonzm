@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harrisonzm
-- 👀 I’m interested in ciber security and software development 
-- 🌱 I’m currently learning some backend and cibersecurity topics 
+- 👀 I’m interested in cyber security and software development 
+- 🌱 I’m currently learning some backend and cybersecurity topics 
 
 
 <!---
